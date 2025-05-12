@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+# Environment variables
+.env*
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Build output (if any, add your specific build folders)
+# dist/
+# build/
+
+# Miscellaneous
+*.deb
+*.zip
+*.tar.gz
